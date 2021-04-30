@@ -1,6 +1,6 @@
 SPK_NAME = borgbackup
-SPK_VERS = 1.1.13
-SPK_REV = 7
+SPK_VERS = 1.1.16
+SPK_REV = 8
 SPK_ICON = src/$(SPK_NAME).png
 
 BUILD_DEPENDS = cross/python3 cross/setuptools cross/pip cross/wheel
